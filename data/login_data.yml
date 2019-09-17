@@ -4,6 +4,6 @@ test_login:
     password: "abc123"
     toast: "成功"
   test_login_002:
-    username: " 18931418897"
+    username: "18931418897 "
     password: "abc123"
     toast: "不存在"
